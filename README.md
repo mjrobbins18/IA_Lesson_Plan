@@ -2,7 +2,7 @@
 
 
 ## Objective
---------------------
+
 ### By the end of this lesson, students will be able to:
 
 - Recognize the structure of a function.
@@ -12,7 +12,7 @@
 
 --------------
 ## What is a function, and why is it important?
----------------
+
 
 ### Functions:
 
@@ -27,7 +27,7 @@
 
 ----------------
 ## Components of a Function
--------------------------
+
 
 ### Familiar Syntax
 
@@ -49,7 +49,7 @@ function findTheSum (a, b) {
 ```
 ----------
 ## Invoking a Function
-----------
+
 
 Now that the ```findTheSum``` function is defined, the next step is to invoke or call the function. This step tells the program when the function is to be executed and what values are to be passed into the function.
 
@@ -77,7 +77,7 @@ The values that are going to be passed in to the function are defined when the f
 
 ---------
 ## The Difference Between Calling and Referencing a Function
----------
+
 
 If we have defined a function, in order to see the function in action we need to call it.
 
@@ -103,7 +103,7 @@ The difference between referencing and calling a function is that when a functio
 
 --------
 ## We Do: Put it all together.
---------
+
 
 We will write a function that takes two integers as parameters and multiplies them together. The output will be the product of the two arguments.
 
@@ -134,13 +134,13 @@ multiplication(4,5)
 ```
 ----------
 ## You Do: Write a function!
-----------
+
 
 Write a function that takes a string, ```name``` , as the parameter. The function should take in a name and the output should be "Hello, ```name```. How are you today?".
 
 ----------
 ## Conclusion
-----------
+
 
 Functions are a fundamental component of Javascript. They are snippets of code that are re-useable and perform tasks. They are important for DRY coding, organization, and easy application. Functions follow the same three-part syntax that is found throughout Javascript. The elements of a function are the keyword, the parameters, the code block, and the values/arguments. In order for a function to be executed it needs to be called or referenced to be used later. 
 
