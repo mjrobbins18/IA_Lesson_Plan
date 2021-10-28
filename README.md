@@ -17,7 +17,7 @@
 ### Functions:
 
 - Functions are a fundamental element of Javascript.
-- Very simply, functions are a chunks of Javascript code that can be re-used in order to perform a given task.
+- Very simply, functions are chunks of Javascript code that can be re-used in order to perform a given task.
 
 ### Benefits of utilizing functions:
 
@@ -31,7 +31,7 @@
 
 ### Familiar Syntax
 
-The syntax of a function follows the pattern that is found all over Javascript.
+The syntax of a function follows the pattern that is found throughout Javascript.
 
 ``` 
 function () {}
@@ -61,6 +61,9 @@ function findTheSum (a, b) {
 }
 
 findTheSum(2,3)
+
+// What is the output?
+
 ```
 
 ## Parameters, Values and Arguments
@@ -131,6 +134,8 @@ function multiplication (x,y) {
 }
 
 multiplication(4,5)
+
+What is the output?
 ```
 ----------
 ## You Do: Write a function!
