@@ -141,7 +141,7 @@ What is the output?
 ## You Do: Write a function!
 
 
-Write a function that takes a string, ```name``` , as the parameter. The function should take in a name and the output should be "Hello, ```name```. How are you today?".
+Write a function that takes a string, ```name``` , as the parameter. The function should take in a name and the output should be "Hello, ```name```. How are you today?". Don't forget to give the function a descriptive name!
 
 ----------
 ## Conclusion
